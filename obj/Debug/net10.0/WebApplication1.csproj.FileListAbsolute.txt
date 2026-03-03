@@ -21,7 +21,6 @@
 /home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/scopedcss/bundle/WebApplication1.styles.css
 /home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/scopedcss/projectbundle/WebApplication1.bundle.scp.css
-/home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/compressed/556miamfr6-{0}-53aspww39q-53aspww39q.gz
 /home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/compressed/u3m5yo2x8f-{0}-61n19gt1b8-61n19gt1b8.gz
 /home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/compressed/w3u7ibosd4-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/compressed/8yqr3kw3fy-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -95,3 +94,5 @@
 /home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/WebApplication1.pdb
 /home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/WebApplication1.genruntimeconfig.cache
 /home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/ref/WebApplication1.dll
+/home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/WebApplication1.sourcelink.json
+/home/kskfran/Escritorio/MVCGavilan/WebApplication1/obj/Debug/net10.0/compressed/556miamfr6-{0}-1azw5zeksq-1azw5zeksq.gz
